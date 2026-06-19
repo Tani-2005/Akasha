@@ -171,14 +171,6 @@ The hall *is* the UI.
 
 ---
 
-## Attributions
-
-- UI components from [shadcn/ui](https://ui.shadcn.com/) — [MIT License](https://github.com/shadcn-ui/ui/blob/main/LICENSE.md)
-- Photos from [Unsplash](https://unsplash.com) — [Unsplash License](https://unsplash.com/license)
-- Original concept & design from [Figma](https://www.figma.com/design/8J3pEISQ0AqLiNwxI95I69/Akash) *(original Figma file)*
-
----
-
 <div align="center">
 
 *Every deepa is a promise.*  
